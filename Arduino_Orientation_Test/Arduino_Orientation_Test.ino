@@ -1,5 +1,7 @@
 #include <Arduino_LSM9DS1.h>
 
+//  I hate arduino! - Declan
+
 void setup() {
   Serial.begin(9600);
   while (!Serial);
